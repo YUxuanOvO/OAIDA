@@ -1,1 +1,1 @@
-# OAIDA: online-adaptive IIoT data stream analysis 
+# OAIDA: Online-adaptive IIoT data stream analysis
